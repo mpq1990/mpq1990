@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working on NodeJS, Ruby on Rails, Phoenix(elixir) and C++
-🌱 I’m currently learning about software architecture, data intensive applications, messaging patterns, web assembly, unreal engine etc
-👯 I’m looking to collaborate on any projects based on NodeJS and/or C++. Would love to work on unreal engine with someone!
-🤔 I’m looking for help with unreal engine, c++
-💬 Ask me about Javascript, Nodejs, Software architecture, Microservices
-📫 How to reach me: @mpq1990
-⚡ Fun fact: I am obsessed with airplanes and aviation
+- 🔭 I’m currently working on NodeJS, Ruby on Rails, Phoenix(elixir) and C++
+- 🌱 I’m interested in software architecture, data intensive applications, messaging patterns, web assembly, unreal engine etc
+- 👯 I’m looking to collaborate on any projects based on NodeJS/Javascript, Elixir and/or C++. Would love to work on unreal engine with someone!
+- 🤔 I’m looking for help with unreal engine, c++
+- 💬 Ask me about Javascript, Nodejs, Engineering Management, Software architecture, Microservices
+- 📫 How to reach me: @mpq1990
+- ⚡ Fun fact: I am obsessed with airplanes and aviation
 <!--
 **mpq1990/mpq1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
