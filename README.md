@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on NodeJS, Ruby on Rails and C++
+🔭 I’m currently working on NodeJS, Ruby on Rails, Phoenix(elixir) and C++
 🌱 I’m currently learning about software architecture, data intensive applications, messaging patterns, web assembly, unreal engine etc
 👯 I’m looking to collaborate on any projects based on NodeJS and/or C++. Would love to work on unreal engine with someone!
 🤔 I’m looking for help with unreal engine, c++
